@@ -1,0 +1,59 @@
+.box {
+    background: #fff000;
+    height: 50px;
+    width: 50px;
+    margin: 25px;
+    display: inline;
+
+}
+
+.box-2 {
+    background: forestgreen;
+    height: 50px;
+    width: 50px;
+    margin: 25px;
+    display: inline;
+
+}
+
+.box-3 {
+    background: #000fff;
+    height: 50px;
+    width: 50px;
+    margin: 25px;
+    display: inline;
+
+}
+
+/*
+Displa
+
+.Block
+.Inline
+.Inline-Block
+
+.Grid
+.Flex
+
+.Block
+....Vem como padrão: Div, Section, p, h1, h2, ul,li, article....
+
+....Ocupa 100% da largura do elemento pai
+....Sempre ocupa toda a sua linah
+....Altura definida de acordo com o conteúdo
+....Podemos definir valores de margin
+
+.Inline
+....vem coom padrão a, span, b, i...
+
+....Elemento em linha 
+....Não permite altera height ewidth
+....Não podemos definir valores de margin top e bottom
+....Ganha comportamento de uma palavra
+
+.Inline-Block
+
+....Elemento em linha, porem com característica da disply Block
+....Altura e largura podem alteradas.
+
+/*

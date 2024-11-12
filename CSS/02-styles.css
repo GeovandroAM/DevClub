@@ -1,0 +1,16 @@
+ h1 {
+    color: chocolate;
+    background: black;
+}
+
+p {
+    color: darkcyan;
+    font-size: 20px;
+}
+
+button {
+    background-color: crimson;
+    border-color: chocolate;
+}
+
+

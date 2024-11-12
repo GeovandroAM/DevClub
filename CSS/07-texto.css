@@ -1,0 +1,29 @@
+
+h1{
+    color: blue;
+    font-size: 64px;
+    font-weight: lighter;
+    font-family: 'NotoSans', sans-serif;
+    font-style: italic;
+    text-shadow: 5px 5px 10px #ff0000;
+
+}
+
+p{
+    color:black;
+    font-size: 30px;
+    font-weight: 100px;
+    font-family: 'Notosans',sans-serif;
+    font-style: italic;
+    line-height: 25px;
+    letter-spacing: 15;
+    word-spacing: 30px;
+    text-align: justify;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.botao{
+    color: chartreuse;
+    background-color:forestgreen
+
+}
